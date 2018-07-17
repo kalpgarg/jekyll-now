@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently, I'm pursuing Bachelors in Electrical Engineering from IIT Roorkee. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In case you're interested, here's my resume [link](https://docs.google.com/document/d/11nk2wc66wJ29ShjWZC6b5XL55FboUMdWhQTrFQMFCR8/edit?usp=sharing)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kalpgarg.12@gmail.com](mailto:kalpgarg.12@gmail.com)
