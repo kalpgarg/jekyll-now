@@ -31,6 +31,12 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
+social:
+  name: Kalp Garg
+  links:
+    - https://www.facebook.com/kalp.garg.73
+    - https://www.linkedin.com/in/kalp-garg-10a708138/
+    - https://github.com/kalpgarg
 
 webmaster_verifications:
   google: 1234
