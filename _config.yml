@@ -6,7 +6,7 @@
 name: Kalp Garg
 
 # Short bio or description (displayed in the header)
-description: Fitness freak, Robotics Enthusiast, Nothing more :P 
+description: Fitness freak, Robotics Enthusiast, Occasional Flutist :P
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/kalpgarg/kalpgarg.github.io/blob/master/images/untitled2.jpg?raw=true
@@ -22,7 +22,7 @@ footer-links:
   facebook: kalp.garg.73
   flickr:
   github: kalpgarg
-  instagram:
+  instagram: kalp_garg
   linkedin: kalp-garg-10a708138/
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -37,6 +37,7 @@ social:
     - https://www.facebook.com/kalp.garg.73
     - https://www.linkedin.com/in/kalp-garg-10a708138/
     - https://github.com/kalpgarg
+    - https://instagram.com/kalp_garg
 
 webmaster_verifications:
   google: uPdo3bRGR_gG-XwrodbtMWuYUu1RKI8SHkSqYnDKNOM
@@ -56,7 +57,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://kalpgarg.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
