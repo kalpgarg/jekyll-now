@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Currently, I'm pursuing Bachelors in Electrical Engineering from IIT Roorkee. 
+Cuurently, I'm R&D Engineer at Bajaj Auto Ltd, Pune.
 
 ### More Information
 
