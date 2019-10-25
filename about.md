@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Cuurently, I'm R&D Engineer at Bajaj Auto Ltd, Pune.
+Currently, I'm R&D Engineer at Bajaj Auto Ltd, Pune.
 
 ### More Information
 
