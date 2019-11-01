@@ -101,4 +101,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-cayman
+theme: jekyll-material-theme
