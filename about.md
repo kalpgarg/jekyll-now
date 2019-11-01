@@ -7,7 +7,7 @@ Currently, I'm R&D Engineer at Bajaj Auto Ltd, Pune.
 
 ### More Information
 
-In case you're interested, here's my resume [link](/files/resume.pdf)
+In case you're interested, here's my resume [link](/files/resume-1.pdf)
 
 ### Contact me
 
